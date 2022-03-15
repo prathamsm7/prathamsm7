@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Prathamesh 👋
+
+![alt text](/Simple%20Technology%20LinkedIn%20Banner%20(1).png)
+
 
 <!--
 **prathamsm7/prathamsm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathamsm7&theme=merko&show_icons=true)
