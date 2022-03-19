@@ -4,7 +4,8 @@
 
 
 <!--Intro  -->
-<h2>About Me</h2>
+## About Me
+### Passionate full-stack developer with knowledge of MERN stack. Has hands-on experience building UI, making websites responsive, and working with different kinds of frameworks and libraries. Seeking exciting web-development roles with reputed tech companies.
 
 - 🌱 I’m currently learning **MERN STACK**...
 - 👯 I’m looking to collaborate on **INSTAGRAM CLONE**...
